@@ -1,0 +1,94 @@
+div {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.fondo {
+    background-image:url("../img/fondo2.JPG"); 
+    background-repeat: round;
+}
+/*encabezado*/
+
+header {
+    
+   background-color:rgba(46, 171, 254, 0.664);  
+}
+
+.logo {
+    width: 25%;
+}
+
+.logossociales {
+
+    margin-top: 12em !important;
+    background-color:rgba(46, 171, 254, 0.664) !important;  
+}
+
+nav {
+    padding: 0px !important;
+    background-color:rgba(46, 171, 254, 0.664) !important;  
+}
+
+
+/*barra de navegacion*/
+
+ul {
+    text-decoration-color: black !important;
+    background-color:rgba(248, 248, 248, 0.63) !important;
+}
+
+
+
+/*Columna centrales*/
+
+.publicaciones{
+    margin-top: 1em !important;
+    background-color: rgba(0, 128, 255, 0.637);
+}
+
+.busqueda{
+    
+    margin-top: 1em !important;
+    height: 60rem;
+    background-color:#848484
+}
+
+.imagen1{
+    margin-left: 1em;
+    margin-right: 1em;
+    width: 90% !important;
+}
+
+.imagen2{
+    margin-left: 1em;
+    margin-right: 1em;
+    width: 90% !important;
+}
+
+p,h2 {
+    padding: 1em;
+    color: white !important;
+}
+
+.icono1{
+    margin-left: 5px;
+    margin-top: 15px !important;
+}
+
+.textoarea {
+    
+    margin: auto;
+   
+    border-radius: 2em;
+}
+
+.comentarios1{
+   
+}
+
+/*tercera columna*/
+
+.modobusqueda{
+    margin-top: 1em !important;
+}
+
